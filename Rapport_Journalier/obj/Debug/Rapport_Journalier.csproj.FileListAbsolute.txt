@@ -1,0 +1,17 @@
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\bin\Debug\Rapport_Journalier.exe.config
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\bin\Debug\Rapport_Journalier.exe
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\bin\Debug\Rapport_Journalier.pdb
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.Form1.resources
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.Properties.Resources.resources
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.csproj.GenerateResource.Cache
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.exe
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.pdb
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.GUI.Auth.Login.resources
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.GUI.Auth.Register.resources
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.GUI.Layouts.Form_layouts.resources
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.GUI.AdminForm.resources
+c:\users\lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.GUI.UsersForm.resources
+C:\Users\Lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\bin\Debug\MySql.Data.dll
+C:\Users\Lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\bin\Debug\MySql.Web.dll
+C:\Users\Lecryptologue\documents\visual studio 2012\Projects\Rapport_Journalier\Rapport_Journalier\obj\Debug\Rapport_Journalier.csprojResolveAssemblyReference.cache
